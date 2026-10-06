@@ -1,0 +1,12 @@
+{
+  "name": "llm-council",
+  "description": "Marketplace do plugin llm-council",
+  "owner": { "name": "Levi Pires" },
+  "plugins": [
+    {
+      "name": "llm-council",
+      "source": "./",
+      "description": "Conselho de LLMs em 3 estágios com subagentes Claude"
+    }
+  ]
+}

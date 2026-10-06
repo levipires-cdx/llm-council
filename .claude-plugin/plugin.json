@@ -1,0 +1,11 @@
+{
+  "name": "llm-council",
+  "displayName": "LLM Council",
+  "version": "0.1.0",
+  "description": "Conselho de LLMs em 3 estágios (estilo Karpathy) com subagentes Claude: respostas independentes, revisão cruzada anônima e síntese do presidente.",
+  "author": { "name": "Levi Pires", "url": "https://github.com/levipires-cdx" },
+  "repository": "https://github.com/levipires-cdx/llm-council",
+  "homepage": "https://github.com/levipires-cdx/llm-council",
+  "license": "MIT",
+  "keywords": ["council", "multi-agent", "decision", "review", "karpathy"]
+}
